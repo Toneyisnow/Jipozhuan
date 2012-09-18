@@ -1,0 +1,1343 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/jpgame/!svn/ver/46/Classes
+END
+Supply.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/jpgame/!svn/ver/40/Classes/Supply.h
+END
+ChapterOne.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/jpgame/!svn/ver/46/Classes/ChapterOne.m
+END
+SetColorAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/jpgame/!svn/ver/2/Classes/SetColorAction.m
+END
+CommonBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/jpgame/!svn/ver/23/Classes/CommonBuilder.h
+END
+Supply.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/jpgame/!svn/ver/12/Classes/Supply.m
+END
+ComposeAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/jpgame/!svn/ver/12/Classes/ComposeAction.h
+END
+DisposeAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/jpgame/!svn/ver/1/Classes/DisposeAction.h
+END
+CommonBuilder.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/jpgame/!svn/ver/34/Classes/CommonBuilder.m
+END
+BossEnemy.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/jpgame/!svn/ver/28/Classes/BossEnemy.h
+END
+KeepPositionAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/jpgame/!svn/ver/34/Classes/KeepPositionAction.h
+END
+ComposeAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/jpgame/!svn/ver/12/Classes/ComposeAction.m
+END
+DisposeAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/jpgame/!svn/ver/1/Classes/DisposeAction.m
+END
+BossEnemy.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/jpgame/!svn/ver/28/Classes/BossEnemy.m
+END
+GameState.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/jpgame/!svn/ver/32/Classes/GameState.h
+END
+KeepPositionAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/jpgame/!svn/ver/34/Classes/KeepPositionAction.m
+END
+Color.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/jpgame/!svn/ver/24/Classes/Color.h
+END
+GameState.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/jpgame/!svn/ver/41/Classes/GameState.m
+END
+Color.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/jpgame/!svn/ver/25/Classes/Color.m
+END
+JPPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/jpgame/!svn/ver/23/Classes/JPPoint.h
+END
+BackgroundController.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/jpgame/!svn/ver/28/Classes/BackgroundController.h
+END
+SwingAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/jpgame/!svn/ver/21/Classes/SwingAction.h
+END
+FadeoutAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/jpgame/!svn/ver/2/Classes/FadeoutAction.h
+END
+BackgroundController.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/jpgame/!svn/ver/28/Classes/BackgroundController.m
+END
+JPPoint.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/jpgame/!svn/ver/23/Classes/JPPoint.m
+END
+SwingAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/jpgame/!svn/ver/21/Classes/SwingAction.m
+END
+FadeoutAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/jpgame/!svn/ver/12/Classes/FadeoutAction.m
+END
+ComposingAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/jpgame/!svn/ver/15/Classes/ComposingAction.h
+END
+AnimatedCharacter.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/jpgame/!svn/ver/7/Classes/AnimatedCharacter.h
+END
+ComposingAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/jpgame/!svn/ver/19/Classes/ComposingAction.m
+END
+AnimatedCharacter.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/jpgame/!svn/ver/7/Classes/AnimatedCharacter.m
+END
+JumpAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/jpgame/!svn/ver/32/Classes/JumpAction.h
+END
+BackgroundThreeController.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/jpgame/!svn/ver/23/Classes/BackgroundThreeController.h
+END
+MainGameLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/jpgame/!svn/ver/12/Classes/MainGameLayer.h
+END
+Constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/jpgame/!svn/ver/20/Classes/Constants.h
+END
+BackgroundTwoController.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/jpgame/!svn/ver/28/Classes/BackgroundTwoController.h
+END
+SettingsScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/jpgame/!svn/ver/40/Classes/SettingsScene.h
+END
+JumpAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/jpgame/!svn/ver/32/Classes/JumpAction.m
+END
+ContainerLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/jpgame/!svn/ver/29/Classes/ContainerLayer.h
+END
+CircleSpeedAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/jpgame/!svn/ver/23/Classes/CircleSpeedAction.h
+END
+MainGameLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/jpgame/!svn/ver/34/Classes/MainGameLayer.m
+END
+BackgroundThreeController.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/jpgame/!svn/ver/24/Classes/BackgroundThreeController.m
+END
+EnemyBuilderFour.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/jpgame/!svn/ver/34/Classes/EnemyBuilderFour.h
+END
+Constants.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/jpgame/!svn/ver/20/Classes/Constants.m
+END
+RootViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/jpgame/!svn/ver/1/Classes/RootViewController.h
+END
+ScreenContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/jpgame/!svn/ver/6/Classes/ScreenContainer.h
+END
+BackgroundTwoController.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/jpgame/!svn/ver/28/Classes/BackgroundTwoController.m
+END
+SettingsScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/jpgame/!svn/ver/46/Classes/SettingsScene.m
+END
+ContainerLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/jpgame/!svn/ver/29/Classes/ContainerLayer.m
+END
+Curve.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/jpgame/!svn/ver/20/Classes/Curve.h
+END
+SetSolidAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/jpgame/!svn/ver/8/Classes/SetSolidAction.h
+END
+EnemyBullet.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/jpgame/!svn/ver/1/Classes/EnemyBullet.h
+END
+CircleSpeedAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/jpgame/!svn/ver/24/Classes/CircleSpeedAction.m
+END
+EnemyBuilderFour.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/jpgame/!svn/ver/41/Classes/EnemyBuilderFour.m
+END
+TransitionEndController.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/jpgame/!svn/ver/33/Classes/TransitionEndController.h
+END
+Chapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/jpgame/!svn/ver/46/Classes/Chapter.h
+END
+WillExplodeAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/jpgame/!svn/ver/26/Classes/WillExplodeAction.h
+END
+ScreenContainer.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/jpgame/!svn/ver/3/Classes/ScreenContainer.m
+END
+RootViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/jpgame/!svn/ver/1/Classes/RootViewController.m
+END
+Curve.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/jpgame/!svn/ver/20/Classes/Curve.m
+END
+SetSolidAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/jpgame/!svn/ver/8/Classes/SetSolidAction.m
+END
+EnemyBullet.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/jpgame/!svn/ver/33/Classes/EnemyBullet.m
+END
+TransitionFourController.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/jpgame/!svn/ver/25/Classes/TransitionFourController.h
+END
+TransitionEndController.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/jpgame/!svn/ver/33/Classes/TransitionEndController.m
+END
+WillExplodeAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/jpgame/!svn/ver/26/Classes/WillExplodeAction.m
+END
+Chapter.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/jpgame/!svn/ver/46/Classes/Chapter.m
+END
+EnemyBulletBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/jpgame/!svn/ver/22/Classes/EnemyBulletBuilder.h
+END
+ExplodeAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/jpgame/!svn/ver/29/Classes/ExplodeAction.h
+END
+TransitionFourController.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/jpgame/!svn/ver/34/Classes/TransitionFourController.m
+END
+TransitionOneController.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/jpgame/!svn/ver/24/Classes/TransitionOneController.h
+END
+Shape.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/jpgame/!svn/ver/1/Classes/Shape.h
+END
+SetScaleAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/jpgame/!svn/ver/34/Classes/SetScaleAction.h
+END
+EnemyBulletBuilder.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/jpgame/!svn/ver/34/Classes/EnemyBulletBuilder.m
+END
+SwitchToAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/jpgame/!svn/ver/8/Classes/SwitchToAction.h
+END
+SelectModeScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/jpgame/!svn/ver/16/Classes/SelectModeScene.h
+END
+ExplodeAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/jpgame/!svn/ver/29/Classes/ExplodeAction.m
+END
+TrophyScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/jpgame/!svn/ver/32/Classes/TrophyScene.h
+END
+Rectangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/jpgame/!svn/ver/1/Classes/Rectangle.h
+END
+AlertLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/jpgame/!svn/ver/29/Classes/AlertLayer.h
+END
+Shape.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/jpgame/!svn/ver/1/Classes/Shape.m
+END
+TransitionOneController.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/jpgame/!svn/ver/26/Classes/TransitionOneController.m
+END
+SetScaleAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/jpgame/!svn/ver/34/Classes/SetScaleAction.m
+END
+SwitchToAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/jpgame/!svn/ver/8/Classes/SwitchToAction.m
+END
+SelectModeScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/jpgame/!svn/ver/46/Classes/SelectModeScene.m
+END
+TrophyScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/jpgame/!svn/ver/46/Classes/TrophyScene.m
+END
+Rectangle.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/jpgame/!svn/ver/34/Classes/Rectangle.m
+END
+AlertLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/jpgame/!svn/ver/34/Classes/AlertLayer.m
+END
+SetSpeedAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/jpgame/!svn/ver/2/Classes/SetSpeedAction.h
+END
+JipozhuanNewAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/jpgame/!svn/ver/1/Classes/JipozhuanNewAppDelegate.h
+END
+SetSpeedAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/jpgame/!svn/ver/11/Classes/SetSpeedAction.m
+END
+BackgroundFourController.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/jpgame/!svn/ver/24/Classes/BackgroundFourController.h
+END
+JipozhuanNewAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/jpgame/!svn/ver/40/Classes/JipozhuanNewAppDelegate.m
+END
+BackgroundFourController.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/jpgame/!svn/ver/34/Classes/BackgroundFourController.m
+END
+AudioEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/jpgame/!svn/ver/41/Classes/AudioEngine.h
+END
+Common.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/jpgame/!svn/ver/34/Classes/Common.h
+END
+AudioEngine.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/jpgame/!svn/ver/46/Classes/AudioEngine.m
+END
+Character.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/jpgame/!svn/ver/40/Classes/Character.h
+END
+Common.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/jpgame/!svn/ver/34/Classes/Common.m
+END
+BulletBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/jpgame/!svn/ver/40/Classes/BulletBuilder.h
+END
+GameConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/jpgame/!svn/ver/12/Classes/GameConfig.h
+END
+Character.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/jpgame/!svn/ver/41/Classes/Character.m
+END
+ComposeEnemyAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/jpgame/!svn/ver/20/Classes/ComposeEnemyAction.h
+END
+BulletBuilder.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/jpgame/!svn/ver/40/Classes/BulletBuilder.m
+END
+ComposeEnemyAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/jpgame/!svn/ver/34/Classes/ComposeEnemyAction.m
+END
+CongratulationScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/jpgame/!svn/ver/16/Classes/CongratulationScene.h
+END
+MoveController.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/jpgame/!svn/ver/32/Classes/MoveController.h
+END
+Foreground.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/jpgame/!svn/ver/40/Classes/Foreground.h
+END
+AlertController.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/jpgame/!svn/ver/29/Classes/AlertController.h
+END
+CongratulationScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/jpgame/!svn/ver/16/Classes/CongratulationScene.m
+END
+Enemy.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/jpgame/!svn/ver/40/Classes/Enemy.h
+END
+LinkedEnemyDefinition.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/jpgame/!svn/ver/20/Classes/LinkedEnemyDefinition.h
+END
+MoveController.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/jpgame/!svn/ver/32/Classes/MoveController.m
+END
+Foreground.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/jpgame/!svn/ver/40/Classes/Foreground.m
+END
+Background.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/jpgame/!svn/ver/23/Classes/Background.h
+END
+ChapterTwo.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/jpgame/!svn/ver/34/Classes/ChapterTwo.h
+END
+AlertController.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/jpgame/!svn/ver/34/Classes/AlertController.m
+END
+Drawable.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/jpgame/!svn/ver/1/Classes/Drawable.h
+END
+LinkedEnemyDefinition.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/jpgame/!svn/ver/20/Classes/LinkedEnemyDefinition.m
+END
+Enemy.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/jpgame/!svn/ver/40/Classes/Enemy.m
+END
+Background.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/jpgame/!svn/ver/23/Classes/Background.m
+END
+EnemyBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/jpgame/!svn/ver/40/Classes/EnemyBuilder.h
+END
+ChapterTwo.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/jpgame/!svn/ver/46/Classes/ChapterTwo.m
+END
+Drawable.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/jpgame/!svn/ver/1/Classes/Drawable.m
+END
+EnemyBuilderOne.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/jpgame/!svn/ver/34/Classes/EnemyBuilderOne.h
+END
+TransitionThreeController.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/jpgame/!svn/ver/25/Classes/TransitionThreeController.h
+END
+JPInteger.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/jpgame/!svn/ver/19/Classes/JPInteger.h
+END
+HelixSpeedAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/jpgame/!svn/ver/20/Classes/HelixSpeedAction.h
+END
+EnemyBuilder.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/jpgame/!svn/ver/40/Classes/EnemyBuilder.m
+END
+TransitionThreeController.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/jpgame/!svn/ver/34/Classes/TransitionThreeController.m
+END
+EnemyBuilderOne.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/jpgame/!svn/ver/40/Classes/EnemyBuilderOne.m
+END
+AirCraft.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/jpgame/!svn/ver/16/Classes/AirCraft.h
+END
+JPInteger.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/jpgame/!svn/ver/19/Classes/JPInteger.m
+END
+HelixSpeedAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/jpgame/!svn/ver/40/Classes/HelixSpeedAction.m
+END
+RevolvePositionSetter.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/jpgame/!svn/ver/21/Classes/RevolvePositionSetter.h
+END
+AirCraft.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/jpgame/!svn/ver/33/Classes/AirCraft.m
+END
+RevolvePositionSetter.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/jpgame/!svn/ver/32/Classes/RevolvePositionSetter.m
+END
+ChasingAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/jpgame/!svn/ver/23/Classes/ChasingAction.h
+END
+BackgroundOld.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/jpgame/!svn/ver/23/Classes/BackgroundOld.h
+END
+ChasingAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/jpgame/!svn/ver/34/Classes/ChasingAction.m
+END
+LocalString.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/jpgame/!svn/ver/46/Classes/LocalString.h
+END
+BackgroundOld.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/jpgame/!svn/ver/23/Classes/BackgroundOld.m
+END
+EnemyDefinition.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/jpgame/!svn/ver/40/Classes/EnemyDefinition.h
+END
+LocalString.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/jpgame/!svn/ver/46/Classes/LocalString.m
+END
+Bullet.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/jpgame/!svn/ver/33/Classes/Bullet.h
+END
+EnemyDefinition.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/jpgame/!svn/ver/12/Classes/EnemyDefinition.m
+END
+PositionSetter.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/jpgame/!svn/ver/21/Classes/PositionSetter.h
+END
+Bullet.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/jpgame/!svn/ver/33/Classes/Bullet.m
+END
+AbstractGame.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/jpgame/!svn/ver/3/Classes/AbstractGame.h
+END
+PositionSetter.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/jpgame/!svn/ver/20/Classes/PositionSetter.m
+END
+ShootController.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/jpgame/!svn/ver/20/Classes/ShootController.h
+END
+AbstractGame.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/jpgame/!svn/ver/1/Classes/AbstractGame.m
+END
+HomePageScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/jpgame/!svn/ver/16/Classes/HomePageScene.h
+END
+SpriteChar.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/jpgame/!svn/ver/1/Classes/SpriteChar.h
+END
+ShootController.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/jpgame/!svn/ver/34/Classes/ShootController.m
+END
+HomePageScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/jpgame/!svn/ver/46/Classes/HomePageScene.m
+END
+SpriteChar.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/jpgame/!svn/ver/1/Classes/SpriteChar.m
+END
+GuideScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/jpgame/!svn/ver/40/Classes/GuideScene.h
+END
+EnemyBuilderThree.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/jpgame/!svn/ver/34/Classes/EnemyBuilderThree.h
+END
+ChapterEnd.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/jpgame/!svn/ver/30/Classes/ChapterEnd.h
+END
+ChapterThree.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/jpgame/!svn/ver/23/Classes/ChapterThree.h
+END
+GuideScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/jpgame/!svn/ver/46/Classes/GuideScene.m
+END
+EnemyBuilderThree.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/jpgame/!svn/ver/46/Classes/EnemyBuilderThree.m
+END
+ChapterEnd.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/jpgame/!svn/ver/38/Classes/ChapterEnd.m
+END
+ChapterThree.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/jpgame/!svn/ver/46/Classes/ChapterThree.m
+END
+GameStatistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/jpgame/!svn/ver/33/Classes/GameStatistics.h
+END
+BackgroundOneController.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/jpgame/!svn/ver/23/Classes/BackgroundOneController.h
+END
+SolidCharacter.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/jpgame/!svn/ver/34/Classes/SolidCharacter.h
+END
+TransitionTwoController.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/jpgame/!svn/ver/25/Classes/TransitionTwoController.h
+END
+GameStatistics.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/jpgame/!svn/ver/33/Classes/GameStatistics.m
+END
+BackgroundOneController.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/jpgame/!svn/ver/23/Classes/BackgroundOneController.m
+END
+SolidCharacter.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/jpgame/!svn/ver/34/Classes/SolidCharacter.m
+END
+MainGameScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/jpgame/!svn/ver/29/Classes/MainGameScene.h
+END
+TransitionTwoController.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/jpgame/!svn/ver/40/Classes/TransitionTwoController.m
+END
+JPFloat.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/jpgame/!svn/ver/1/Classes/JPFloat.h
+END
+SequencedCharacterBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/jpgame/!svn/ver/12/Classes/SequencedCharacterBuilder.h
+END
+AbstractAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/jpgame/!svn/ver/12/Classes/AbstractAction.h
+END
+MainGameScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/jpgame/!svn/ver/30/Classes/MainGameScene.m
+END
+JPFloat.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/jpgame/!svn/ver/1/Classes/JPFloat.m
+END
+SetShootingAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/jpgame/!svn/ver/8/Classes/SetShootingAction.h
+END
+SequencedCharacterBuilder.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/jpgame/!svn/ver/6/Classes/SequencedCharacterBuilder.m
+END
+AbstractAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/jpgame/!svn/ver/12/Classes/AbstractAction.m
+END
+SetCharacterAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/jpgame/!svn/ver/2/Classes/SetCharacterAction.h
+END
+GameSetting.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/jpgame/!svn/ver/40/Classes/GameSetting.h
+END
+ForegroundLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/jpgame/!svn/ver/29/Classes/ForegroundLayer.h
+END
+Friend.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/jpgame/!svn/ver/40/Classes/Friend.h
+END
+SetShootingAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/jpgame/!svn/ver/16/Classes/SetShootingAction.m
+END
+Game.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/jpgame/!svn/ver/33/Classes/Game.h
+END
+SlowDownAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/jpgame/!svn/ver/2/Classes/SlowDownAction.h
+END
+SetCharacterAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/jpgame/!svn/ver/2/Classes/SetCharacterAction.m
+END
+GameSetting.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/jpgame/!svn/ver/46/Classes/GameSetting.m
+END
+ForegroundLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/jpgame/!svn/ver/29/Classes/ForegroundLayer.m
+END
+Friend.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/jpgame/!svn/ver/40/Classes/Friend.m
+END
+Game.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/jpgame/!svn/ver/46/Classes/Game.m
+END
+SlowDownAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/jpgame/!svn/ver/34/Classes/SlowDownAction.m
+END
+FlapAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/jpgame/!svn/ver/33/Classes/FlapAction.h
+END
+ExplosionChip.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/jpgame/!svn/ver/6/Classes/ExplosionChip.h
+END
+FlapAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/jpgame/!svn/ver/33/Classes/FlapAction.m
+END
+HelloWorldScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/jpgame/!svn/ver/1/Classes/HelloWorldScene.h
+END
+CollisionHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/jpgame/!svn/ver/12/Classes/CollisionHandler.h
+END
+ExplosionChip.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/jpgame/!svn/ver/6/Classes/ExplosionChip.m
+END
+Hero.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/jpgame/!svn/ver/40/Classes/Hero.h
+END
+HelloWorldScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/jpgame/!svn/ver/32/Classes/HelloWorldScene.m
+END
+CollisionHandler.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/jpgame/!svn/ver/1/Classes/CollisionHandler.m
+END
+Hero.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/jpgame/!svn/ver/40/Classes/Hero.m
+END
+ChangeSpeedAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/jpgame/!svn/ver/21/Classes/ChangeSpeedAction.h
+END
+LinkedAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/jpgame/!svn/ver/20/Classes/LinkedAction.h
+END
+Sprite.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/jpgame/!svn/ver/11/Classes/Sprite.h
+END
+LinkedAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/jpgame/!svn/ver/20/Classes/LinkedAction.m
+END
+ChangeSpeedAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/jpgame/!svn/ver/22/Classes/ChangeSpeedAction.m
+END
+Sprite.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/jpgame/!svn/ver/34/Classes/Sprite.m
+END
+BackgroundLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/jpgame/!svn/ver/12/Classes/BackgroundLayer.h
+END
+EnemyBuilderTwo.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/jpgame/!svn/ver/34/Classes/EnemyBuilderTwo.h
+END
+ChaseAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/jpgame/!svn/ver/13/Classes/ChaseAction.h
+END
+BackgroundLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/jpgame/!svn/ver/1/Classes/BackgroundLayer.m
+END
+ChapterFour.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/jpgame/!svn/ver/23/Classes/ChapterFour.h
+END
+ColorfulAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/jpgame/!svn/ver/12/Classes/ColorfulAction.h
+END
+Controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/jpgame/!svn/ver/16/Classes/Controller.h
+END
+EnemyBuilderTwo.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/jpgame/!svn/ver/40/Classes/EnemyBuilderTwo.m
+END
+ChaseAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/jpgame/!svn/ver/34/Classes/ChaseAction.m
+END
+ChapterFour.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/jpgame/!svn/ver/46/Classes/ChapterFour.m
+END
+ColorfulAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/jpgame/!svn/ver/38/Classes/ColorfulAction.m
+END
+ChapterOne.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/jpgame/!svn/ver/3/Classes/ChapterOne.h
+END
+SetColorAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/jpgame/!svn/ver/2/Classes/SetColorAction.h
+END
+Controller.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/jpgame/!svn/ver/16/Classes/Controller.m
+END
